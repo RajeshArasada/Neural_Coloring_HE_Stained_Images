@@ -1,2 +1,2 @@
-logs/
-model/
+results/
+vgg19_model_finetuned.h5
